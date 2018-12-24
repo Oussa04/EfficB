@@ -1,3 +1,3 @@
 # EfficB
 
-Backend of the Efficaisse, made with Spring framework.
+Backend of the Efficaisse App, made with Spring framework.
